@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "home": "الرئيسية",
+    "lang": "العربية",
+    "prices": "الاسعار",
+    "contactUs": "كلم الدعم",
+    "trackShipment": "تتبع الشحنة",
+    "trackYourShipment": "تتبع شحنتك",
+    "signIn": "تسجيل الدخول",
+    "trackingNo": "رقم التتبع"
+  },
+  "Home": {
+    "text1": "انضم إلى جيل جديد من الخدمات اللوجستية!",
+    "text2": "مفهوم جديد للشحن والتتبع والتجميع والتوصيل، كل ذلك من خلال حلول تقنية مبتكرة وعمليات فعالة.",
+    "text3": "ابدأ الان"
+  },
+  "TrackingService": {
+    "shipmentNumber": "رقم الشحنة",
+    "lastUpdate": "اخر تحديث",
+    "merchantName": "اسم التاجر",
+    "deliveryDue": "موعد التسليم خلال",
+    "shipmentDetails": "تفاصيل الشحنة",
+    "deliveryAddress": "عنوان التسليم",
+    "notSpecified": "غير محدد",
+    "branch": "الفرع",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "details": "تفاصيل",
+    "problemWithShipment": "هل يوجد مشكلة في شحنتك؟",
+    "reportProblem": "الإبلاغ عن مشكلة",
+    "shipmentNotDelivered": "لم يتم تسليم الشحنة",
+    "shipmentDelivered": "تم تسليم الشحنة",
+    "shipmentCancelled": "تم إلغاء الشحنة",
+    "shipmentCreated": "تم إنشاء الشحنة",
+    "shipmentReceivedByMerchant": "تم استلام الشحنة من التاجر",
+    "shipmentOutForDelivery": "الشحنة خرجت للتسليم",
+    "customerNotAvailableAtAddress": "العميل غير متواجد في العنوان",
+    "shipmentCancelledByMerchant": "تم إلغاء الشحنة من قبل التاجر",
+    "shipmentSuccessfullyDelivered": "تم تسليم الشحنة بنجاح",
+    "CANCELLED": "تم إلغاء الشحنة",
+    "DELIVERED": "تم تسليم الشحنة",
+    "DELIVERED_TO_SENDER": "العميل غير متواجد فى العنوان",
+    "TICKET_CREATED": "تم إنشاء الشحنة",
+    "PACKAGE_RECEIVED": "تم استلام الشحنة من التاجر",
+    "OUT_FOR_DELIVERY": "الشحنة خرجت للتسليم"
+  }
+}

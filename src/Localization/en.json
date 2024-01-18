@@ -1,0 +1,47 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "lang": "ENG",
+    "prices": "Prices",
+    "contactUs": "Contact Us",
+    "trackShipment": "Track Shipment",
+    "trackYourShipment": "Track your shipment",
+    "signIn": "Sign In",
+    "trackingNo": "Tracking No."
+  },
+  "Home": {
+    "text1": "Join A New Generation Of Logistics!",
+    "text2": "Redefining how you ship, track, collect, deliver all through innovative tech-solutions and efficient operations",
+    "text3": "Start Now"
+  },
+  "TrackingService": {
+    "shipmentNumber": "Shipment Number",
+    "lastUpdate": "Last Update",
+    "merchantName": "Merchant Name",
+    "deliveryDue": "Delivery Time Within",
+    "shipmentDetails": "Shipment Details",
+    "deliveryAddress": "Delivery Address",
+    "notSpecified": "Not specified",
+    "branch": "Branch",
+    "date": "Date",
+    "time": "Time",
+    "details": "Details",
+    "problemWithShipment": "Is there a problem with your shipment?",
+    "reportProblem": "Report a Problem",
+    "shipmentNotDelivered": "Shipment Not Delivered",
+    "shipmentDelivered": "Shipment Delivered",
+    "shipmentCancelled": "Shipment Cancelled",
+    "shipmentCreated": "Shipment Created",
+    "shipmentReceivedByMerchant": "Shipment Received from Merchant",
+    "shipmentOutForDelivery": "Shipment Out for Delivery",
+    "customerNotAvailableAtAddress": "Customer Not Available at Address",
+    "shipmentCancelledByMerchant": "Shipment Cancelled by Merchant",
+    "shipmentSuccessfullyDelivered": "Shipment Successfully Delivered",
+    "CANCELLED": "Shipment Cancelled",
+    "DELIVERED": "Shipment Delivered",
+    "DELIVERED_TO_SENDER": "The Receiver is not Present at the Address",
+    "TICKET_CREATED": "Shipment Created",
+    "PACKAGE_RECEIVED": "Shipment Received from Merchant",
+    "OUT_FOR_DELIVERY": "Shipment Out for Delivery"
+  }
+}
