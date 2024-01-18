@@ -31,6 +31,10 @@ function App() {
           element: <Home />,
         },
         {
+          index: "home",
+          element: <Home />,
+        },
+        {
           path: "track-shipment",
           element: <TrackingService />,
         },
