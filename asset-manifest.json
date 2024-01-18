@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bosta-App/static/css/main.77e7d93a.css",
+    "main.js": "/Bosta-App/static/js/main.ceffccdf.js",
+    "static/media/7720441.jpg": "/Bosta-App/static/media/7720441.9663301c430e41b5b856.jpg",
+    "static/media/fa-solid-900.ttf": "/Bosta-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/png": "/Bosta-App/static/media/841cb0d0f210d54dd999cb2ed74eb5a9.841cb0d0f210d54dd999.png",
+    "static/media/gif": "/Bosta-App/static/media/1b7a066dd1e46125bc726fdc73a5815b.1b7a066dd1e46125bc72.gif",
+    "static/media/fa-brands-400.ttf": "/Bosta-App/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Bosta-App/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/Bosta-App/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/Bosta-App/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/Bosta-App/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Bosta-App/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Bosta-App/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/Bosta-App/index.html",
+    "main.77e7d93a.css.map": "/Bosta-App/static/css/main.77e7d93a.css.map",
+    "main.ceffccdf.js.map": "/Bosta-App/static/js/main.ceffccdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e7d93a.css",
+    "static/js/main.ceffccdf.js"
+  ]
+}
