@@ -194,12 +194,11 @@ export default function Navbar() {
             </Link>
 
             <li className="nav-item w-full py-6 lg:py-5 lg:px-6 border-b-2 border-textColor border-dotted lg:border-0">
-              <Link
-                to="track-shipment"
+              <p
                 className="nav-link text-base font-bold hover:text-mainColor cursor-default text-nowrap"
               >
                 {t("Navbar.prices")}
-              </Link>
+              </p>
             </li>
             <li className="nav-item w-full py-6 lg:py-5 lg:px-6 border-b-2 border-textColor border-dotted lg:border-0">
               <p className="nav-link text-base font-bold hover:text-mainColor cursor-default text-nowrap">
