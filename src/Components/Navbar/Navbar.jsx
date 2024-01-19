@@ -206,7 +206,7 @@ export default function Navbar() {
               </p>
             </li>
             <li className="nav-item w-full py-6 lg:py-5 lg:px-6 border-b-2 border-textColor border-dotted lg:border-0 lg:hidden">
-              {i18n.language === "en" && (
+              {i18n.language === "en" || i18n.language === "en-US"? (
                 <span
                   onClick={() => {
                     document.dir = "rtl";
@@ -217,7 +217,7 @@ export default function Navbar() {
                 >
                   عربى
                 </span>
-              )}
+              ):null}
               {i18n.language === "ar" || i18n.language === "ar-EG" ? (
                 <span
                   onClick={() => {
