@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bosta-App/static/css/main.77e7d93a.css",
-    "main.js": "/Bosta-App/static/js/main.3e67465d.js",
+    "main.js": "/Bosta-App/static/js/main.06d5a7ca.js",
     "static/media/7720441.jpg": "/Bosta-App/static/media/7720441.9663301c430e41b5b856.jpg",
     "static/media/fa-solid-900.ttf": "/Bosta-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/png": "/Bosta-App/static/media/841cb0d0f210d54dd999cb2ed74eb5a9.841cb0d0f210d54dd999.png",
@@ -15,10 +15,10 @@
     "static/media/fa-v4compatibility.woff2": "/Bosta-App/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/Bosta-App/index.html",
     "main.77e7d93a.css.map": "/Bosta-App/static/css/main.77e7d93a.css.map",
-    "main.3e67465d.js.map": "/Bosta-App/static/js/main.3e67465d.js.map"
+    "main.06d5a7ca.js.map": "/Bosta-App/static/js/main.06d5a7ca.js.map"
   },
   "entrypoints": [
     "static/css/main.77e7d93a.css",
-    "static/js/main.3e67465d.js"
+    "static/js/main.06d5a7ca.js"
   ]
 }
