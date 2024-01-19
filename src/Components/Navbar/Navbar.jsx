@@ -318,7 +318,7 @@ export default function Navbar() {
               </span>
             </li>
             <li className="nav-item text-mainColor">
-              {i18n.language === "en" && (
+              {i18n.language === "en" || i18n.language === "en-US"? (
                 <span
                   className="nav-link py-5 ps-5 text-base font-bold text-mainColor cursor-pointer"
                   onClick={() => {
@@ -330,7 +330,7 @@ export default function Navbar() {
                 >
                   عربى
                 </span>
-              )}
+              ):null}
               {i18n.language === "ar" || i18n.language === "ar-EG" ? (
                 <span
                   className="nav-link py-5 ps-5 text-base font-bold text-mainColor cursor-pointer"
