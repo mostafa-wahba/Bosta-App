@@ -1,7 +1,7 @@
 import { useEffect } from "react";
 import MainContextProvider from "./Context/MainContext";
 import { useTranslation } from "react-i18next";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createBrowserRouter, createHashRouter } from "react-router-dom";
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import MainLayout from "./Layouts/MainLayout";
 import "./index.css";
@@ -21,7 +21,7 @@ function App() {
     checkDirLang();
   }, []);
   
-  const routes = createBrowserRouter([
+  const routes = createHashRouter([
     {
       path: "",
       element: <MainLayout />,
